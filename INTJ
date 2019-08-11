@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nh&#243;m t&#237;nh c&#225;ch INTJ – The Mastermind – Người qu&#226;n sư | MBTI.vn</title>
+    <meta name="description" content="INTJ l&#224; g&#236;? INTJ l&#224; từ viết tắt gh&#233;p lại từ 4 chữ (Introversion, iNtuition, Thinking, Judgement), 1 trong 16 loại t&#237;nh c&#225;ch được nghi&#234;n cứu từ chỉ b&#225;o nhận dạng t&#237;nh c&#225;ch MBTI . ">
+    <meta name="keywords" content="MBTI, MBTI test, trắc nghiệm MBTI, trac nghiem MBTI, kiểm tra MBTI, trắc nghiệm t&#237;nh c&#225;ch, trac nghiem tinh cach, trắc nghiệm nghề nghiệp, kiểm tra sở th&#237;ch">
+    <link href="./bootstrap.css" rel="stylesheet"/>
+<link href="./site.css" rel="stylesheet"/>
+
+    <script src="./modernizr-2.6.2.js"></script>
+
+    
+    
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Trắc nghiệm MBTI</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav visible-xs">
+                    <li class="home"><a href="/">Trang chủ</a></li>
+                    <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+                    <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+                    <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li>
+                    <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+                    <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li>
+                    <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+                    <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li>
+                    <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li>
+                    <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>
+                    <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+                    <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li>
+                    <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+                    <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+                    <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+                    <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+                    <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- An's Nav -->
+    
+    <!-- End An's Nav -->
+    <div class="container body-content">
+        
+
+
+
+<div class="row">
+    <div class="col-sm-3 hidden-xs">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="home"><a href="/">Trang chủ</a></li> 
+	  <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+      <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+	  <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li> 
+	  <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+	  <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li> 
+	  <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+	  <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li> 
+	  <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li> 
+	  <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>   
+      <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+	  <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li> 
+	  <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+   	  <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+	  <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+	  <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+      <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+    </ul>
+</div>
+    <div class="col-sm-9">
+        <h1 style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>INTJ – The Mastermind – Người quân sư</strong></span></h1>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>INTJ là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">INTJ là từ viết tắt ghép lại từ 4 chữ (<strong>I</strong>ntroversion, i<strong>N</strong>tuition, <strong>T</strong>hinking, <strong>J</strong>udgement), 1 trong 16 loại tính cách được nghiên cứu từ chỉ báo nhận dạng tính cách MBTI (Myers-Briggs Type Indicator). Chỉ báo đánh giá tính cách MBTI được phát triển bởi Isabel Briggs Myers, Katharine Cook Briggs và David Keirsey từ các công trình nghiên cứu của vị bác sỹ tâm thần học nổi tiếng Carl G. Jung về các loại hình tâm lý dựa trên các học thuyết về các chức năng nhận thức. Keirsey gọi INTJ là The Mastermind (Người quân sư) vì họ có những suy nghĩ logic và chiến lược bậc thầy. INTJ là 1 trong 4 loại tính cách của một nhóm tính khí The Rational (Người minh mẫn).</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Nhóm INTJ có tính cách như thế nào?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đánh giá MBTI ước tính đánh giá chính xác khoảng 75% theo chỉ báo hướng dẫn của nó, bằng nhiều câu hỏi trắc nghiệm trên cơ sở bốn “nhị phân” (các cặp đối lập về tâm lý), INTJ là 1 trong 16 kết quả loại tính cách và được xác định bằng bốn mà chữ viết tắt ký tự đầu tiên (riêng i<strong>N</strong>tuition ngoại lệ vì I dùng cho <strong>I</strong>ntroversion) như dưới đây:</span></p>
+
+<ul>
+	<li style="text-align:justify"><strong><em>I</em></strong><em>ntroversion:</em> ưa thích hướng nội nên thường có xu hướng thích sự yên tĩnh, chỉ thích tương tác với những người bạn thân thiết. Việc tiếp xúc xã hội với những người không quen khiến họ tổn thất nhiều năng lượng;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>i<strong>N</strong>tuition:</em> Dùng trực giác nhiều hơn là cảm nhận cụ thể, vì vậy họ tập trung sự chú ý vào bức tranh toàn cảnh hơn là những chi tiết nhỏ nhặt, cũng như là những điều có thể xảy ra trong tương lai hơn là chú ý vào thực tại;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>T</em></strong><em>hinking:</em> Suy nghĩ lý trí hơn là cảm xúc, xu hướng coi trọng các tiêu chí khách quan hơn là sở thích cá nhân. Khi đưa ra một quyết định thì thường dựa vào sự logic hơn là yếu tố xã hội;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>J</em></strong><em>udgement:</em> Họ đánh giá một cách rất nguyên tắc và khả năng dự đoán của mình, sớm lập kế hoặch và tuân thủ theo nó thay vì là những quyết định tự phát, linh hoạt.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Giá trị cốt lõi, hành động và suy nghĩ từ xu hướng tính cách của INTJ là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">INTJ có một niềm đam mê mạnh mẽ với việc phân tích, giải quyết vấn đề, cải thiện các hệ thống và quy trình bằng các ý tưởng sáng tạo của họ. Họ luôn khát khao nâng cao kiến thức và cố gắng không ngừng nghỉ, luôn cầu toàn với tiêu chuẩn hiệu suất cực cao dành cho bản thân và cả những người đồng nghiệp. Sự độc lập trong tính cách và tư tưởng đôi khi khiến INTJ bị xa cách nhưng họ luôn là những đối tác trung thành. INTJ nhận thức về các hệ thống và lên chiến lược cho nó, và thông thường thì mọi thứ sẽ được định hướng rõ ràng như trên một bàn cờ. Với khả năng tư duy logic, sự tự tin và tài năng, The Mastermind hoàn toàn có thể đảm nhận vai trò lãnh đạo, cố vấn chiến lược tài ba.</span><br />
+&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><img alt="Mô tả tính cách INTJ" src="/Files/Images/INTJ.jpg" style="height:501px; width:800px" /></span><br />
+<em>INTJ – The Mastermind – Người quân sư&nbsp;– Nguồn&nbsp;MBTI.vn</em><br />
+<br />
+&nbsp;</p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>INTJ và Sự nghiệp</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">INTJ vượt trội trong việc tạo ra và thực hiện các giải pháp sáng tạo cho các vấn đề cần phải phân tích. Họ thường thích làm việc độc lập hoặc một nhóm nhỏ, thực hiện các bước chiến lược và đo lường để tạo rat hay đổi. Môi trường làm việc lý tưởng của INTJ cần điều kiện có sư logic, hiệu quả, cấu trúc và phân tích cùng các đồng nghiệp thông minh, có năng lực. Họ phù hợp với các nhóm ngành sau đây:</span></p>
+
+<ul>
+	<li style="text-align:justify">Kinh doanh và tài chính (Kế toán, Chuyên gia phân tích tài chính , giám đốc điều hành,…);</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Toán học ( Nhà toán học, Nhà thống kê, phân tích nghiên cứu hoạt động,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kiến trúc và kỹ thuật (Kỹ sư, Kiến trúc sư, Kiểm soát viên, Nhà thầu xây dựng…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Khoa học và đời sống (Nhà kinh tế, Nhà tâm lý, Nhà khoa học,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Nghệ thuật và truyền thông (Quan hệ công chúng, Giám đốc sản xuất nghệ thuật,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Chăm sóc sức khỏe (Bác sỹ, quản lý dịch vụ y tế,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Giáo dục và đào tạo (Giảng viên, Giáo sư tiến sỹ,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Giải trí và thể thao (Huấn luyện viên, Nhà sản xuất,..);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Nhóm ngành IT;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Pháp luật (Thẩm phán, Luật sư, Cảnh sát điều tra,…).</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Mối quan hệ ngoại giao của INTJ</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">INTJ thường trực tiếp và vô tư trong các cuộc giao tiếp, họ tự nhiên truyền đạt một thứ gì đó họ nghĩ là tốt và cần phải thực hiện hoặc sự chỉ trích một cách thẳng thắn, hợp lý. Họ luôn độc lập, điềm tĩnh và tự tin về năng lực nên không quá quan tâm đến sự đánh giá của người khác.</span></p>
+
+<ul>
+	<li style="text-align:justify">Đối với INTP, ENTJ, ISTJ: tính cách tương tự và nhiều điểm chung nên rất dễ để INTJ chia sẻ các giá trị, sở thích và tiếp cận;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ENFJ, ENTP, INFJ, INFP: Họ có một số sự khác biệt nhưng những khác biệt này lại gây thu hút đối với INTJ. Về cơ bản thì họ vẫn có những điểm chung để tạo sự cân bằng trong mối quan hệ với ENFJ;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ENFP, ESTP, ISTP, ESTJ: Ban đầu có thể INTJ sẽ gặp khó khăn một chút đế tiếp cận và kết nối với nhóm tính cách này. Tuy nhiên nếu tiếp xúc một thời gian thì họ sẽ phát hiện ra những điểm chung cũng như những quan điểm khác có thể học hỏi bổ sung lẫn nhau;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ESFJ, ISFJ, ESFP, ISFP: Nhóm tính cách này đối lập và xung đột với INTJ, tuy nhiên nếu có thế phát triển được mối quan hệ thì đây là cơ hội để INTJ học hỏi và phát triển, thách thức luôn đi kèm cơ hội.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Phân loại nhóm tính khí của tính cách INTJ</strong></span></span></h2>
+
+<ul>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Artisan (SP)</em>: ISFP (Composer), ISTP (Crafter), ESFP (Performer), ESTP (Promoter);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Guardian (SJ)</em>: ISTJ (Inspector), ISFJ (Protector), ESFJ (Provider), ESTJ (Supervisor);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Idealist (NF)</em>: ENFP (Champion), INFJ (Counselor), INFP (Healer), ENFJ (Teacher);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Rational (NT)</em>: INTP (Architect), ENTJ (Fieldmarshal), ENTP (Inventor), <strong>INTJ (Mastermind)</strong>.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Độ phổ biến của nhóm tính cách INTJ</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đây là nhóm tính cách hiếm gặp thứ 3 trên thế giới và chiếm khoảng 2-4% dân số thế giới. Nếu xét theo tỷ lệ giới tính thì đối với nam giới tỷ lệ là 3%, trong khi đối với nữ giới chỉ đạt mức vỏn vẹn là 1%</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Những INTJ nổi tiếng</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Elon Musk, Vladimir Putin, Stephen Hawking, Arnold Schwarzenegger,….</span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:rgb(0, 0, 255)"><span style="font-size:36px"><span style="font-family:arial,helvetica,sans-serif"><strong>BẠN CÓ PHẢI LÀ MỘT&nbsp;INTJ?</strong></span></span></span></div>
+
+<div style="text-align: center; width: 100%; margin: 30px 0;"><a class="btn btn-success btn-lg" href="/" target="_blank">KIỂM TRA MBTI CỦA TÔI</a></div>
+        
+
+        
+    </div>
+</div>
+
+       
+    </div>
+
+    <script src="./jquery-1.10.2.js"></script>
+<script src="./jquery.unobtrusive-ajax.js"></script>
+<script src="./bootstrap.js"></script>
+<script src="./respond.js"></script>
+<script src="./common.js"></script>
+
+    
+    <script>
+        $(function() {$('.INTJ').addClass('active'); });
+    </script>
+
+    <!--loading-->
+    <div class="cssload-container" id="progress">
+        <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <!--end loading-->
+</body>
+</html>

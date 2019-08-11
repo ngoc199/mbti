@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nh&#243;m t&#237;nh c&#225;ch ESTP – The Promoter – Người đề xướng | MBTI.vn</title>
+    <meta name="description" content="ESTP l&#224; g&#236;? ESTP l&#224; từ viết tắt gh&#233;p lại từ 4 chữ (Extraversion, Sensing, Thinking, Perception), 1 trong 16 loại t&#237;nh c&#225;ch được nghi&#234;n cứu từ chỉ b&#225;o nhận dạng t&#237;nh c&#225;ch MBTI . ">
+    <meta name="keywords" content="MBTI, MBTI test, trắc nghiệm MBTI, trac nghiem MBTI, kiểm tra MBTI, trắc nghiệm t&#237;nh c&#225;ch, trac nghiem tinh cach, trắc nghiệm nghề nghiệp, kiểm tra sở th&#237;ch">
+    <link href="./bootstrap.css" rel="stylesheet"/>
+<link href="./site.css" rel="stylesheet"/>
+
+    <script src="./modernizr-2.6.2.js"></script>
+
+    
+    
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Trắc nghiệm MBTI</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav visible-xs">
+                    <li class="home"><a href="/">Trang chủ</a></li>
+                    <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+                    <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+                    <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li>
+                    <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+                    <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li>
+                    <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+                    <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li>
+                    <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li>
+                    <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>
+                    <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+                    <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li>
+                    <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+                    <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+                    <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+                    <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+                    <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- An's Nav -->
+    
+    <!-- End An's Nav -->
+    <div class="container body-content">
+        
+
+
+
+<div class="row">
+    <div class="col-sm-3 hidden-xs">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="home"><a href="/">Trang chủ</a></li> 
+	  <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+      <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+	  <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li> 
+	  <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+	  <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li> 
+	  <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+	  <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li> 
+	  <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li> 
+	  <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>   
+      <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+	  <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li> 
+	  <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+   	  <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+	  <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+	  <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+      <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+    </ul>
+</div>
+    <div class="col-sm-9">
+        <h1 style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>ESTP – The Promoter – Người đề xướng</strong></span></h1>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ESTP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESTP là từ viết tắt ghép lại từ 4 chữ (<strong>E</strong>xtraversion, <strong>S</strong>ensing, <strong>T</strong>hinking, <strong>P</strong>erception), 1 trong 16 loại tính cách được nghiên cứu từ chỉ báo nhận dạng tính cách MBTI (Myers-Briggs Type Indicator). Chỉ báo đánh giá tính cách MBTI được phát triển bởi Isabel Briggs Myers, Katharine Cook Briggs và David Keirsey từ các công trình nghiên cứu của vị bác sỹ tâm thần học nổi tiếng Carl G. Jung về các loại hình tâm lý dựa trên các học thuyết về các chức năng nhận thức. Keirsey gọi ESTP là The Promoter (Người đề xướng) vì mục tiêu của họ là bán bản thân và ý tưởng của mình cho người khác. ESTP là 1 trong 4 loại tính cách của một nhóm tính khí The Artisan (Người nghệ nhân)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Nhóm ESTP có tính cách như thế nào?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đánh giá MBTI ước tính đánh giá chính xác khoảng 75% theo chỉ báo hướng dẫn của nó, bằng nhiều câu hỏi trắc nghiệm trên cơ sở bốn “nhị phân” (các cặp đối lập về tâm lý), ESTP là 1 trong 16 kết quả loại tính cách và được xác định bằng bốn mà chữ viết tắt ký tự đầu tiên (riêng i<strong>N</strong>tuition ngoại lệ vì I dùng cho <strong>I</strong>ntroversion) như dưới đây:</span></p>
+
+<ul>
+	<li style="text-align:justify"><strong><em>E</em></strong><em>xtraversion:</em> ưa thích hướng ngoại, cảm giác được thúc đẩy và giàu năng lượng dành cho những người xunh quanh;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>S</em></strong><em>ensing:</em> Dùng cảm nhận cụ thể nhiều hơn là trực giác, vì vậy họ tập trung sự chú ý vào những chi tiết nhỏ nhặt hơn là bức tranh toàn cảnh, cũng như là những điều xảy ra ngay tại thực tại hơn là những thứ có thể đến trong tương lai;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>T</em></strong><em>hinking:</em> Suy nghĩ lý trí hơn là cảm xúc, xu hướng coi trọng các tiêu chí khách quan hơn là sở thích cá nhân. Khi đưa ra một quyết định thì thường dựa vào sự logic hơn là yếu tố xã hội;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>P</em></strong><em>erception:</em> Họ không vội đánh giá hay sớm ra một quyết định phán xét quan trọng nào đó , thay vào đó luôn nhìn nhận một cách linh hoạt vấn đề và có thể thay đổi tùy hoàn cảnh.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Giá trị cốt lõi, hành động và suy nghĩ từ xu hướng tính cách của ESTP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESTP là những người tích cực, có xu hướng thực hành để giải quyết vấn đề hơn là chỉ thảo luận về chúng. Họ còn lão làng một cách nghệ thuật trong việc thúc đẩy, tạo sức ảnh hưởng để người khác cùng hành động. Cụ thể trong lời nói và thực dụng trong hành động, họ luôn mang đến một nguồn năng lượng dồi dào cho tập thể. ESTP thích tập trung vào các kết quả rõ ràng trước mắt hơn là suy nghĩ về những mục tiêu dài hạn. Họ có khả năng tháo nút thắt cho các vấn đề để mang người khác đồng hành với mình qua đó đem lại những điều tốt đẹp cho cuộc sống. Vì thế mà ESTP được gọi là những Promoter – Người đề xướng.</span><br />
+&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><img alt="Tính cách ESTP " src="/Files/Images/ESTP.jpg" style="height:371px; width:800px" /></span><br />
+<em>ESTP – The Promoter – Người đề xướng&nbsp;– Nguồn&nbsp;MBTI.vn</em><br />
+&nbsp;</p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ESTP và Sự nghiệp</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESTP là người có động lực với các vấn đề mang tính logic, họ thường chọn nghề nghiệp liên quan tới kỹ năng cơ khí, thể thao hoặc đàm phán đối ngoại. Họ cũng muốn được linh hoạt xử lý các vấn đề mà không cần phải tuân theo một quy tắc có sẵn. ESTP phù hợp với các nhóm ngành sau đây:</span></p>
+
+<ul>
+	<li style="text-align:justify">Khoa học và đời sống (Kỹ thuật viên nông lâm nghiệp, nhà sinh học môi trường,…);</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Giáo dục (Giáo viên dạy nghề, Quản trị viên,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kinh doanh, bán hàng và tài chính (Cố vấn tài chính, Quản trị nhân sự, Quản lý kinh doanh,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kỹ thuật bảo trì và sửa chữa (Cơ khí ô tô, nhân viên điện lạnh, điện tử,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Sản xuất (Thợ mộc, thợ làm bánh, thanh tra giám sát chất lượng);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kiến trúc sư và kỹ sư kỹ thuật;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Cảnh sát, vệ sỹ, lính cứu hỏa, sỹ quan quân đội, phi công;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Xây dựng.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Mối quan hệ ngoại giao của ESTP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESTP là những người giàu năng lượng khi tiếp xúc với mọi người và giỏi trong việc quan sát nhu cầu của mọi người. Họ khéo léo trong cách truyền thông và thuyết phục người khác thực hiện yêu cầu công việc, có thể nói họ là bậc thầy về đàm phán để đạt được mục tiêu của mình hiệu quả nhất.</span></p>
+
+<ul>
+	<li style="text-align:justify">Đối với ISTP, ESTJ, ENTJ: tính cách tương tự và nhiều điểm chung nên rất dễ để ESTP chia sẻ các giá trị, sở thích và tiếp cận;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ISTJ, ENFP, ENTJ, ESFP: Họ có một số sự khác biệt nhưng những khác biệt này lại gây thu hút đối với ESTP. Về cơ bản thì họ vẫn có những điểm chung để tạo sự cân bằng trong mối quan hệ với ENFJ;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INTJ, ISFP, ESFJ, ENFJ: Ban đầu có thể ESTP sẽ gặp khó khăn một chút đế tiếp cận và kết nối với nhóm tính cách này. Tuy nhiên nếu tiếp xúc một thời gian thì họ sẽ phát hiện ra những điểm chung cũng như những quan điểm khác có thể học hỏi bổ sung lẫn nhau;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INTP, INFJ, ISFJ, INFP: Nhóm tính cách này đối lập và xung đột với ESTP, tuy nhiên nếu có thế phát triển được mối quan hệthì đây là cơ hội để ESTP học hỏi và phát triển, thách thức luôn đi kèm cơ hội.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Phân loại nhóm tính khí của tính cách ESTP</strong></span></span></h2>
+
+<ul>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Artisan (SP)</em>: ISFP (Composer), ISTP (Crafter), ESFP (Performer), <strong>ESTP (Promoter);</strong></span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Guardian (SJ)</em>: ISTJ (Inspector), ISFJ (Protector), ESFJ (Provider), ESTJ (Supervisor);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Idealist (NF)</em>: ENFP (Champion), INFJ (Counselor), INFP (Healer), ENFJ (Teacher);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Rational (NT)</em>: INTP (Architect), ENTJ (Fieldmarshal), ENTP (Inventor), INTJ (Mastermind).</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Độ phổ biến của nhóm tính cách ESTP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đây là nhóm tính cách phổ biến nhiều thứ 4 trên thế giới và chiếm khoảng 4-10% dân số thế giới. Nếu xét theo tỷ lệ giới tính thì đối với nữ giới tỷ lệ là 3%, trong khi đối với nam giới đạt mức là 6%</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Những ESTP nổi tiếng</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Donald Trump, Madonna, Bruce Willis, Eddie Murphy,….</span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:rgb(0, 0, 255)"><span style="font-size:36px"><span style="font-family:arial,helvetica,sans-serif"><strong>BẠN CÓ PHẢI LÀ MỘT&nbsp;ESTP?</strong></span></span></span></div>
+
+<div style="text-align: center; width: 100%; margin: 30px 0;"><a class="btn btn-success btn-lg" href="/" target="_blank">KIỂM TRA MBTI CỦA TÔI</a></div>
+
+        
+
+       
+    </div>
+</div>
+
+    </div>
+
+    <script src="./jquery-1.10.2.js"></script>
+<script src="./jquery.unobtrusive-ajax.js"></script>
+<script src="./bootstrap.js"></script>
+<script src="./respond.js"></script>
+<script src="./common.js"></script>
+
+    
+    <script>
+        $(function() {$('.ESTP').addClass('active'); });
+    </script>
+
+    <!--loading-->
+    <div class="cssload-container" id="progress">
+        <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <!--end loading-->
+</body>
+</html>

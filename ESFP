@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nh&#243;m t&#237;nh c&#225;ch ESFP – The Performer – Người tr&#236;nh diễn | MBTI.vn</title>
+    <meta name="description" content="ESFP l&#224; g&#236;? ESFP l&#224; từ viết tắt gh&#233;p lại từ 4 chữ (Extraversion, Sensing, Feeling, Perception), 1 trong 16 loại t&#237;nh c&#225;ch được nghi&#234;n cứu từ chỉ b&#225;o nhận dạng t&#237;nh c&#225;ch MBTI . ">
+    <meta name="keywords" content="MBTI, MBTI test, trắc nghiệm MBTI, trac nghiem MBTI, kiểm tra MBTI, trắc nghiệm t&#237;nh c&#225;ch, trac nghiem tinh cach, trắc nghiệm nghề nghiệp, kiểm tra sở th&#237;ch">
+    <link href="./bootstrap.css" rel="stylesheet"/>
+<link href="./site.css" rel="stylesheet"/>
+
+    <script src="./modernizr-2.6.2.js"></script>
+
+    
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Trắc nghiệm MBTI</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav visible-xs">
+                    <li class="home"><a href="/">Trang chủ</a></li>
+                    <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+                    <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+                    <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li>
+                    <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+                    <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li>
+                    <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+                    <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li>
+                    <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li>
+                    <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>
+                    <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+                    <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li>
+                    <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+                    <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+                    <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+                    <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+                    <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- An's Nav -->
+    
+    <!-- End An's Nav -->
+    <div class="container body-content">
+        
+
+
+<div class="row">
+    <div class="col-sm-3 hidden-xs">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="home"><a href="/">Trang chủ</a></li> 
+	  <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+      <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+	  <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li> 
+	  <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+	  <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li> 
+	  <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+	  <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li> 
+	  <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li> 
+	  <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>   
+      <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+	  <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li> 
+	  <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+   	  <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+	  <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+	  <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+      <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+    </ul>
+</div>
+    <div class="col-sm-9">
+        <h1 style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>ESFP – The Performer – Người trình diễn</strong></span></h1>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ESFP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESFP là từ viết tắt ghép lại từ 4 chữ (<strong>E</strong>xtraversion, <strong>S</strong>ensing, <strong>F</strong>eeling, <strong>P</strong>erception), 1 trong 16 loại tính cách được nghiên cứu từ chỉ báo nhận dạng tính cách MBTI (Myers-Briggs Type Indicator). Chỉ báo đánh giá tính cách MBTI được phát triển bởi Isabel Briggs Myers, Katharine Cook Briggs và David Keirsey từ các công trình nghiên cứu của vị bác sỹ tâm thần học nổi tiếng Carl G. Jung về các loại hình tâm lý dựa trên các học thuyết về các chức năng nhận thức. Keirsey gọi ESFP là The Performer (Người trình diễn) vì họ có bản tính vui tươi tràn đầy năng lượng và ESFP là 1 trong 4 loại tính cách của một nhóm tính khí The Artisan (Người nghệ nhân)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Nhóm ESFP có tính cách như thế nào?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đánh giá MBTI ước tính đánh giá chính xác khoảng 75% theo chỉ báo hướng dẫn của nó, bằng nhiều câu hỏi trắc nghiệm trên cơ sở bốn “nhị phân” (các cặp đối lập về tâm lý), ESFP là 1 trong 16 kết quả loại tính cách và được xác định bằng bốn mà chữ viết tắt ký tự đầu tiên (riêng i<strong>N</strong>tuition ngoại lệ vì I dùng cho <strong>I</strong>ntroversion) như dưới đây:</span></p>
+
+<ul>
+	<li style="text-align:justify"><strong><em>E</em></strong><em>xtraversion:</em> ưa thích hướng ngoại, cảm giác được thúc đẩy và giàu năng lượng dành cho những người xunh quanh;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>S</em></strong><em>ensing:</em> Dùng cảm nhận cụ thể nhiều hơn là trực giác, vì vậy họ tập trung sự chú ý vào những chi tiết nhỏ nhặt hơn là bức tranh toàn cảnh, cũng như là những điều xảy ra ngay tại thực tại hơn là những thứ có thể đến trong tương lai;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>F</em></strong><em>eeling:</em> Đưa ra quyết định dựa vào cảm nhận, trạng thái cảm xúc tình cảm, giá trị cá nhân hơn là dựa vào các yếu tố khách quan hoặc quy luật logic;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>P</em></strong><em>erception:</em> Họ không vội đánh giá hay sớm ra một quyết định phán xét quan trọng nào đó , thay vào đó luôn nhìn nhận một cách linh hoạt vấn đề và có thể thay đổi tùy hoàn cảnh.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Giá trị cốt lõi, hành động và suy nghĩ từ xu hướng tính cách của ESFP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESFP luôn hoạt bát, quyến rũ và thu hút những người xung quanh khiến họ cảm thấy vui vẻ. Họ rất ấm áp, hài hước và thích được là trung tâm của sự chú ý. ESFP sống trong những khoảnh khắc của hiện tại và muốn tận hưởng tối đa những gì mà cuộc sống mang lại. Họ đặc biệt giỏi trong việc quan sát, cảm nhận, giúp đỡ và huy động thuyết phục mọi người để cùng giải quyết vấn đề theo những cách rất thực tế. ESFP thích một cuộc sống tự nhiên mà không cần phải lên kế hoặch trước, muốn thoải mái vui vẻ cũng các hoạt động, sở thích với bạn bè mà không cần các nguyên tắc, quy ước can thiệp vào. Tính tình rộng lượng, lạc quan và giỏi thuyết phục, họ là những người tương tác cá nhân tuyệt vời.</span><br />
+&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><img alt="Tính cách ESFP" src="/Files/Images/ESFP.jpg" style="height:533px; width:800px" /></span><br />
+<em>ESFP – The Performer – Người trình diễn –&nbsp; Nguồn&nbsp;MBTI.vn</em><br />
+&nbsp;</p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ESFP và Sự nghiệp</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESFP là dạng người có tính nghệ thuật, luôn muốn được thực hành trong một môi trường làm việc xã hội năng động, linh hoạt nơi mà họ có thể tự do làm việc vui vẻ bên cạnh những người đồng nghiệp thân thiện, hòa đồng và nhiệt tình. ESFP phù hợp với các nhóm ngành sau đây:</span></p>
+
+<ul>
+	<li style="text-align:justify">Dịch vụ cộng đồng và xã hội (Giáo dục sức khỏe, Tư vấn viên,…);</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Phương tiện – truyền thông (Biên tập viên, Quan hệ công chúng, Tác giả,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Giáo dục (Giáo viên, Quản trị viên,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kinh doanh, quản lý và bán hàng (Marketing, Quản trị nhân sự, Quản lý kinh doanh,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Giải trí, nghệ thuật và thiết kế (Ca sỹ, Nhạc sỹ, Thiết kế thời trang,…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Dịch vụ sức khỏe và chăm sóc cá nhân (Huấn luyện viên cá nhân, bảo mẫu, Y tá…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Cảnh sát, lính cứu hỏa.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Mối quan hệ ngoại giao của ESFP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ESFP là những người thật tình, dễ tin tưởng người khác trong giao tiếp, họ không quá đặt nặng mục tiêu cụ thể trong tâm tưởng mà chỉ đơn giản muốn tìm kiếm sự vui vẻ, chia sẻ trong một cuộc trò chuyện. ESFP có xu hướng tránh sự chỉ trích người khác, thích sự khích lệ và tích cực. Họ giàu năng lượng khi tiếp xúc với mọi người và giỏi trong việc quan sát nhu cầu của mọi người.</span></p>
+
+<ul>
+	<li style="text-align:justify">Đối với ISFP, ESTP, ESFJ: tính cách tương tự và nhiều điểm chung nên rất dễ để ESFP chia sẻ các giá trị, sở thích và tiếp cận;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ISTP, ISFJ, ENFJ, ENFP: Họ có một số sự khác biệt nhưng những khác biệt này lại gây thu hút đối với ESFP. Về cơ bản thì họ vẫn có những điểm chung để tạo sự cân bằng trong mối quan hệ với ENFJ;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với ISTJ, INFP, ESTJ, ENTP: Ban đầu có thể ESFP sẽ gặp khó khăn một chút đế tiếp cận và kết nối với nhóm tính cách này. Tuy nhiên nếu tiếp xúc một thời gian thì họ sẽ phát hiện ra những điểm chung cũng như những quan điểm khác có thể học hỏi bổ sung lẫn nhau;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INTP, INTJ, INFJ, ENTJ: Nhóm tính cách này đối lập và xung đột với ESFP, tuy nhiên nếu có thế phát triển được mối quan hệthì đây là cơ hội để ESFP học hỏi và phát triển, thách thức luôn đi kèm cơ hội.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Phân loại nhóm tính khí của tính cách ESFP</strong></span></span></h2>
+
+<ul>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Artisan (SP)</em>: ISFP (Composer), ISTP (Crafter), <strong>ESFP (Performer)</strong>, ESTP (Promoter);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Guardian (SJ)</em>: ISTJ (Inspector), ISFJ (Protector), ESFJ (Provider), ESTJ (Supervisor);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Idealist (NF)</em>: ENFP (Champion), INFJ (Counselor), INFP (Healer), ENFJ (Teacher);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Rational (NT)</em>: INTP (Architect), ENTJ (Fieldmarshal), ENTP (Inventor), INTJ (Mastermind).</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Độ phổ biến của nhóm tính cách ESFP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đây là nhóm tính cách phổ biến nhiều thứ 3 trên thế giới và chiếm khoảng 9% dân số thế giới. Nếu xét theo tỷ lệ giới tính thì đối với nữ giới tỷ lệ là 10%, trong khi đối với nam giới đạt mức là 7%</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Những ESFP nổi tiếng</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Adele, Marilyn Monroe, Paul McCartney, Serena Williams, Miley Cyrus,….</span></p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>Bạn có phải là một ESFP?</strong></span></p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>Kiểm tra ngay</strong></span></p>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">&nbsp;<br />
+&nbsp;</span></p>
+
+<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:rgb(0, 0, 255)"><span style="font-size:36px"><span style="font-family:arial,helvetica,sans-serif"><strong>BẠN CÓ PHẢI LÀ MỘT&nbsp;ESFP?</strong></span></span></span></div>
+
+<div style="text-align: center; width: 100%; margin: 30px 0;"><a class="btn btn-success btn-lg" href="/" target="_blank">KIỂM TRA MBTI CỦA TÔI</a></div>
+        
+
+        
+    </div>
+</div>
+
+        
+    </div>
+
+    <script src="./jquery-1.10.2.js"></script>
+<script src="./jquery.unobtrusive-ajax.js"></script>
+<script src="./bootstrap.js"></script>
+<script src="./respond.js"></script>
+<script src="./common.js"></script>
+
+    
+    <script>
+        $(function() {$('.ESFP').addClass('active'); });
+    </script>
+
+    <!--loading-->
+    <div class="cssload-container" id="progress">
+        <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <!--end loading-->
+</body>
+</html>

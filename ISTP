@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nh&#243;m t&#237;nh c&#225;ch ISTP – The Crafter – Người thợ thủ c&#244;ng | MBTI.vn</title>
+    <meta name="description" content="ISTP l&#224; g&#236;? ISTP l&#224; từ viết tắt gh&#233;p lại từ 4 chữ (Introversion, Sensing, Thinking, Perception), 1 trong 16 loại t&#237;nh c&#225;ch được nghi&#234;n cứu từ chỉ b&#225;o nhận dạng t&#237;nh c&#225;ch MBTI . ">
+    <meta name="keywords" content="MBTI, MBTI test, trắc nghiệm MBTI, trac nghiem MBTI, kiểm tra MBTI, trắc nghiệm t&#237;nh c&#225;ch, trac nghiem tinh cach, trắc nghiệm nghề nghiệp, kiểm tra sở th&#237;ch">
+    <link href="./bootstrap.css" rel="stylesheet"/>
+<link href="./site.css" rel="stylesheet"/>
+
+    <script src="./modernizr-2.6.2.js"></script>
+
+    
+   
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Trắc nghiệm MBTI</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav visible-xs">
+                    <li class="home"><a href="/">Trang chủ</a></li>
+                    <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+                    <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+                    <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li>
+                    <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+                    <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li>
+                    <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+                    <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li>
+                    <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li>
+                    <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>
+                    <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+                    <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li>
+                    <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+                    <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+                    <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+                    <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+                    <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- An's Nav -->
+    
+    <!-- End An's Nav -->
+    <div class="container body-content">
+        
+
+
+
+<div class="row">
+    <div class="col-sm-3 hidden-xs">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="home"><a href="/">Trang chủ</a></li> 
+	  <li class="ENFJ"><a href="/ENFJ">ENFJ - Người chỉ dạy (Teacher)</a></li>
+      <li class="ENFP"><a href="/ENFP">ENFP - Nhà vô địch (Champion)</a></li>
+	  <li class="ENTJ"><a href="/ENTJ">ENTJ - Người thống lĩnh (Field Marshal)</a></li> 
+	  <li class="ENTP"><a href="/ENTP">ENTP - Nhà phát minh (Inventor)</a></li>
+	  <li class="ESFJ"><a href="/ESFJ">ESFJ - Người cung cấp (Provider)</a></li> 
+	  <li class="ESFP"><a href="/ESFP">ESFP - Người trình diễn (Performer)</a></li>
+	  <li class="ESTJ"><a href="/ESTJ">ESTJ - Người giám sát (Supervisor)</a></li> 
+	  <li class="ESTP"><a href="/ESTP">ESTP - Người đề xướng (Promoter)</a></li> 
+	  <li class="INFJ"><a href="/INFJ">INFJ - Người cố vấn (Counselors)</a></li>   
+      <li class="INFP"><a href="/INFP">INFP - Người hoà giải (Healer)</a></li>
+	  <li class="INTJ"><a href="/INTJ">INTJ - Người quân sư (Mastermind)</a></li> 
+	  <li class="INTP"><a href="/INTP">INTP - Kiến trúc sư (Architect)</a></li>
+   	  <li class="ISFJ"><a href="/ISFJ">ISFJ - Người che chở (Protector)</a></li>
+	  <li class="ISFP"><a href="/ISFP">ISFP - Người soạn nhạc (Composer)</></li>
+	  <li class="ISTJ"><a href="/ISTJ">ISTJ - Người kiểm duyệt (Inspector)</a></li>
+      <li class="ISTP"><a href="/ISTP">ISTP – Thợ thủ công (Crafter)</a></li>
+    </ul>
+</div>
+    <div class="col-sm-9">
+        <h1 style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><strong>ISTP – The Crafter – Người thợ thủ công</strong></span></h1>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ISTP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ISTP là từ viết tắt ghép lại từ 4 chữ (<strong>I</strong>ntroversion, <strong>S</strong>ensing, <strong>T</strong>hinking, <strong>P</strong>erception), 1 trong 16 loại tính cách được nghiên cứu từ chỉ báo nhận dạng tính cách MBTI (Myers-Briggs Type Indicator). Chỉ báo đánh giá tính cách MBTI được phát triển bởi Isabel Briggs Myers, Katharine Cook Briggs và David Keirsey từ các công trình nghiên cứu của vị bác sỹ tâm thần học nổi tiếng Carl G. Jung về các loại hình tâm lý dựa trên các học thuyết về các chức năng nhận thức. Keirsey gọi ISTP là The Crafter (Người thợ thủ công) vì họ &nbsp;có khả năng cơ khí bẩm sinh và có thể dễ dàng sử dụng công cụ thiết bị. ISTP là 1 trong 4 loại tính cách của một nhóm tính khí The Artisan (Người nghệ nhân).</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Nhóm ISTP có tính cách như thế nào?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đánh giá MBTI ước tính đánh giá chính xác khoảng 75% theo chỉ báo hướng dẫn của nó, bằng nhiều câu hỏi trắc nghiệm trên cơ sở bốn “nhị phân” (các cặp đối lập về tâm lý), ISTP là 1 trong 16 kết quả loại tính cách và được xác định bằng bốn mà chữ viết tắt ký tự đầu tiên (riêng i<strong>N</strong>tuition ngoại lệ vì I dùng cho <strong>I</strong>ntroversion) như dưới đây:</span></p>
+
+<ul>
+	<li style="text-align:justify"><strong><em>I</em></strong><em>ntroversion:</em> ưa thích hướng nội nên thường có xu hướng thích sự yên tĩnh, chỉ thích tương tác với những người bạn thân thiết. Việc tiếp xúc xã hội với những người không quen khiến họ tổn thất nhiều năng lượng;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>T</em></strong><em>hinking:</em> Suy nghĩ lý trí hơn là cảm xúc, xu hướng coi trọng các tiêu chí khách quan hơn là sở thích cá nhân. Khi đưa ra một quyết định thì thường dựa vào sự logic hơn là yếu tố xã hội;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>F</em></strong><em>eeling:</em> Đưa ra quyết định dựa vào cảm nhận, trạng thái cảm xúc tình cảm, giá trị cá nhân hơn là dựa vào các yếu tố khách quan hoặc quy luật logic;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><strong><em>P</em></strong><em>erception:</em> Họ không vội đánh giá hay sớm ra một quyết định phán xét quan trọng nào đó , thay vào đó luôn nhìn nhận một cách linh hoạt vấn đề và có thể thay đổi tùy hoàn cảnh.</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Giá trị cốt lõi, hành động và suy nghĩ từ xu hướng tính cách của ISTP là gì?</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ISTP rất giỏi về các vấn đề cơ khí, sửa chữa, khắc phục sự cố và có xu hướng nghiên cứu cách mọi thứ hoạt động. Họ độc lập, logic, linh hoạt và dễ thích nghi, vì vậy họ rất giỏi ứng phó và tìm kiếm các giải pháp thực tế cho các vấn đề trong tầm tay cũng như các tình huống khẩn cấp. ISTP thích hành động, chú ý đến các chi tiết và tương tác với thế giới xung quanh theo cách tự định hướng, tự phát. Họ làm việc khá độc lập, tách rời và có phần khép kín, họ muốn được làm việc một cách tự do trong một không gian cá nhân để có thể đi theo sự dẫn dắt của chính bản thân mình.</span><br />
+&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:arial,helvetica,sans-serif"><img alt="tính cách ISTP" src="/Files/Images/ISTP.jpg" style="height:321px; width:800px" /></span><br />
+<em>ISTP – The Crafter – Người thợ thủ công – Nguồn&nbsp;MBTI.vn</em><br />
+&nbsp;</p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>ISTP và Sự nghiệp </strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ISTP là dạng người thích làm việc trong môi trường chuyên môn kỹ thuật, đam mê làm chủ và điều khiển các công cụ, thiết bị cơ khí hoặc các công cụ kinh doanh, công nghệ hiện đại. Họ coi trọng tính hiệu quả và sự logic và muốn có sự linh hoạt trong công việc. ISTP phù hợp với một số nhóm ngành sau đây:</span></p>
+
+<ul>
+	<li style="text-align:justify">Phân tích tài chính, chứng khoán, nhà kinh tế;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Nhà sinh vật học, nhà địa chất;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Dịch vụ sức khỏe và chăm sóc cá nhân (Huấn luyện viên cá nhân, bảo mẫu, Y tá…);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Cảnh sát, lính cứu hỏa, sỹ quan quân đội, hình sự;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Kiến trúc sư, thợ mộc, thợ may, đầu bếp, thợ kim hoàn;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Phi công, thuyền trưởng;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">IT (Phát triển phần mềm, quản trị cơ sở dữ liệu,….).</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Mối quan hệ ngoại giao của ISTP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">ISTP là những người giao thiệp một cách kín đáo, thường dùng hành động nhiều hơn trong một cuộc trò chuyện. Họ muốn nhanh chóng cần làm những gì phải làm và thiếu kiên nhẫn nếu không nhanh chóng hành động. Tuy nhiên họ cũng rất linh hoạt, giỏi quan sát, nắm bắt chi tiết về tình hình hiện tại và đánh giá thông tin một cách hợp lý.</span></p>
+
+<ul>
+	<li style="text-align:justify">Đối với ISTJ, ESTP, ISFP: tính cách tương tự và nhiều điểm chung nên rất dễ để ISTP chia sẻ các giá trị, sở thích và tiếp cận;</li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INTP, ISFJ, ESFP, ESTJ: Họ có một số sự khác biệt nhưng những khác biệt này lại gây thu hút đối với ISTP. Về cơ bản thì họ vẫn có những điểm chung để tạo sự cân bằng trong mối quan hệ với ENFJ;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INTJ, ENTJ, ESFJ, ENTP: Ban đầu có thể ISTP sẽ gặp khó khăn một chút đế tiếp cận và kết nối với nhóm tính cách này. Tuy nhiên nếu tiếp xúc một thời gian thì họ sẽ phát hiện ra những điểm chung cũng như những quan điểm khác có thể học hỏi bổ sung lẫn nhau;</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đối với INFP, INFJ, ENFP, ENFJ: Nhóm tính cách này đối lập và xung đột với ISTP, tuy nhiên nếu có thế phát triển được mối quan hệ thì đây là cơ hội để ISTP học hỏi và phát triển, thách thức luôn đi kèm cơ hội;</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Phân loại nhóm tính khí của tính cách ISTP</strong></span></span></h2>
+
+<ul>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Artisan (SP)</em>: ISFP (Composer), <strong>ISTP (Crafter)</strong>, ESFP (Performer), ESTP (Promoter);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Guardian (SJ)</em>: ISTJ (Inspector), ISFJ (Protector), ESFJ (Provider), ESTJ (Supervisor);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Idealist (NF)</em>: ENFP (Champion), INFJ (Counselor), INFP (Healer), ENFJ (Teacher);</span></li>
+	<li style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif"><em>Nhóm tính cách Rational (NT)</em>: INTP (Architect), ENTJ (Fieldmarshal), ENTP (Inventor), INTJ (Mastermind).</span></li>
+</ul>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Độ phổ biến của nhóm tính cách ISTP</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Đây là nhóm tính cách phổ biến nhiều thứ 3 trên thế giới và chiếm khoảng 4-6% dân số thế giới. Nếu xét theo tỷ lệ giới tính thì đối với nam giới tỷ lệ là 9%, trong khi đối với nữ giới chỉ chiếm khoảng là 2%.</span></p>
+
+<h2 style="text-align:justify"><span style="font-size:24px"><span style="font-family:arial,helvetica,sans-serif"><strong>Những ISTP nổi tiếng</strong></span></span></h2>
+
+<p style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif">Bruce Lee, Lance Armstrong, Tiger Woods, Clint Eastwood, Tom Cruise,….</span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:rgb(0, 0, 255)"><span style="font-size:36px"><span style="font-family:arial,helvetica,sans-serif"><strong>BẠN CÓ PHẢI LÀ MỘT&nbsp;ISTP?</strong></span></span></span></div>
+
+<div style="text-align: center; width: 100%; margin: 30px 0;"><a class="btn btn-success btn-lg" href="https://mbti.vn/" target="_blank">KIỂM TRA MBTI CỦA TÔI</a></div>
+        
+
+        
+    </div>
+</div>
+
+       
+    </div>
+
+    <script src="./jquery-1.10.2.js"></script>
+<script src="./jquery.unobtrusive-ajax.js"></script>
+<script src="./bootstrap.js"></script>
+<script src="./respond.js"></script>
+<script src="./common.js"></script>
+
+    
+    <script>
+        $(function() {$('.ISTP').addClass('active'); });
+    </script>
+
+    <!--loading-->
+    <div class="cssload-container" id="progress">
+        <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <!--end loading-->
+</body>
+</html>
